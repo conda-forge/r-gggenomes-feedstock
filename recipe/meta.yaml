@@ -85,6 +85,7 @@ about:
 
 extra:
   recipe-maintainers:
+    - conda-forge/r
     - DonatWulf
 
 # Package: gggenomes
