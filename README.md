@@ -144,4 +144,5 @@ Feedstock Maintainers
 =====================
 
 * [@DonatWulf](https://github.com/DonatWulf/)
+* [@conda-forge/r](https://github.com/orgs/conda-forge/teams/r/)
 
